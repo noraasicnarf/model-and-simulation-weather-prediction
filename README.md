@@ -10,4 +10,6 @@ model, and developing an interactive forecasting component, all using Python and
 such as NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and Jupyter widgets. This hands-on strategy
 ensures a comprehensive and applied grasp of modeling and simulation techniques within the Python
 environment.
+# Sample Run
+![prediction](pictures/sample.gif)
 
